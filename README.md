@@ -1,9 +1,9 @@
 # CanadianImmigrationStudy
 
-## A Study of Potential Influencing Factors on Canadian Immigrants.
+## A Study of Potential Influencing Factors on Canadian Immigrants
 
-> #### CSCI 6405 -- Data Mining Project, Dalhousie University.
-> #### By Hongwei Zhang, January - April 2023.
+> CSCI 6405 -- Data Mining Project, Dalhousie University.   
+> By Hongwei Zhang, January - April 2023.
 
 
 > #### [Experiment 1](Experiment_1.ipynb): Study the reasons for Canadian immigrants leaving their home countries based on economic and social indicators for their countries.
