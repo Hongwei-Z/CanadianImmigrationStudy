@@ -2,16 +2,21 @@
 
 ## A Study of Potential Influencing Factors on Canadian Immigrants
 
-> CSCI 6405 -- Data Mining Project, Dalhousie University.   
-> By Hongwei Zhang, January - April 2023.
+### CSCI 6405 -- Data Mining Project, Dalhousie University.   
+### By Hongwei Zhang, January - April 2023.
 
 
-> #### [Experiment 1](Experiment_1.ipynb): Study the reasons for Canadian immigrants leaving their home countries based on economic and social indicators for their countries.
+> #### [Experiment 1](Experiment_1.ipynb): Study the reasons for Canadian immigrants leaving their home countries based on economic and social indicators for their countries. 
 > Data mining methods: Kmeans Clustering, Hierarchical Clustering
 
 > #### [Experiment 2](Experiment_2.ipynb): Study the reasons for attracting immigrants to Canada based on Canadian economic and social indicators.
 > Data mining methods: Decision Tree, Association Rule Mining
 
+![Immigration](map.png)
+
+> Other files:  
+> Experiment_1.5.ipynb: Clustering based on data in 2011.  
+> render.html: Interactive world map of Canadian immigration sources
 
 > Datasets:
 > 1. Immigrant status and period of immigration by place of birth and citizenship: Canada, provinces and territories and census metropolitan areas with parts: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810030201
